@@ -15,4 +15,4 @@ jobs:
         issue-message: 'Message that will be displayed on users first issue'
         pr-message: 'Message that will be displayed on users first pull request'
         
-        git checkout -b FDE-462-copy-doc-of-data-for-streetlight-into-google-drive
+- changing something to commit
